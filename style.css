@@ -55,7 +55,7 @@ body::-webkit-scrollbar-thumb{
     z-index: 99;    
 }
 #nav img{
-    height: 50px;
+    height: 100px;
 }
 #nav h4{
     text-transform: uppercase;

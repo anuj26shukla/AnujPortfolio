@@ -375,10 +375,10 @@ video{
 #page4 h1{
     font-size: 200px;
     position: absolute;
-    top: -40px;
+    top: -60px;
     font-weight: 900;
     color: #000;
-    -webkit-text-stroke: 0.5px #fff;
+    -webkit-text-stroke: 1px #fff;
 }
 #footer{
     height: 60vh;
@@ -424,7 +424,7 @@ video{
 #f4 h4{
     font-size: 18px;
     white-space: nowrap;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: #000;
     font-weight: 600;
     line-height: 20px;

@@ -118,7 +118,7 @@ video{
 #page1 p{
     font-size: 20px;
     font-weight: 500;
-    width: 40%;
+    width: 60%;
 }
 #page1 #arrow{
     height:150px;
@@ -223,7 +223,8 @@ video{
 #about-us-in span{
     font-size: 25px;
     line-height: 30px;
-    -webkit-text-stroke: 0.4px #95C11E ;
+    color: #95C11E;
+    -webkit-text-stroke: 0.4px #fff ;
 }
 #cards-container{
     height: 60vh;
